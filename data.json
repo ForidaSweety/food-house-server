@@ -1,0 +1,66 @@
+[
+    {
+       "services":[
+        {
+            "id":1,
+            "chef_name":"Rafik",
+            "chef_pic":"https://unsplash.com/photos/7YVZYZeITc8",
+            "photo_URL":"",
+            "details":"{1.Spaghetti Carbonara: A classic Italian pasta dish made with spaghetti, eggs, pancetta or bacon, Parmesan cheese, and black pepper. The creamy sauce is made by whisking eggs with grated Parmesan cheese and adding it to the cooked pasta and pancetta.} {2.Chicken Tikka Masala: A popular Indian dish made by marinating chicken in a mixture of yogurt and spices, grilling or baking it, and then simmering it in a creamy tomato-based sauce. It's often served with rice or naan bread.}{ 3.Shakshuka: A flavorful Middle Eastern breakfast dish made with eggs poached in a spiced tomato sauce with onions, bell peppers, and spices such as cumin, paprika, and chili powder. It's often served with crusty bread for dipping.} {4.Beef Stir Fry: A quick and easy Chinese-inspired dish made by stir-frying thinly sliced beef with vegetables such as bell peppers, onions, and broccoli, and a flavorful sauce made with soy sauce, garlic, ginger, and cornstarch.} ",
+            "experience":"3 yr",
+            "num_of_recipies":20,
+            "likes":"1.5k"
+           },
+        {
+            "id":2,
+            "chef_name":"Karim",
+            "chef_pic":"https://unsplash.com/photos/ILip77SbmOE",
+            "photo_URL":"",
+            "details":"{1.Pad Thai: A classic Thai noodle dish made with rice noodles, shrimp or chicken, eggs, bean sprouts, scallions, and a tangy sauce made with tamarind, fish sauce, and palm sugar. It's often garnished with crushed peanuts and lime wedges.} {2.Chicken Parmesan: An Italian-American favorite made with breaded and fried chicken cutlets topped with marinara sauce and melted mozzarella cheese. It's often served with a side of pasta.} {3.Tacos al Pastor: A popular Mexican street food made with marinated pork that's been roasted on a vertical spit, thinly sliced, and served on small tortillas with pineapple, cilantro, and onions. The marinade is typically made with achiote paste, vinegar, and spices.} {4.Ratatouille: A French vegetable stew made with eggplant, zucchini, bell peppers, onions, and tomatoes that have been sautéed in olive oil and seasoned with garlic and herbs such as thyme and rosemary. It can be served as a side dish or a main course.}",
+            "experience":"2 yr",
+            "num_of_recipies":9,
+            "likes":"4k"
+           },
+        {
+            "id":3,
+            "chef_name":"Faruki",
+            "chef_pic":"https://unsplash.com/photos/iFgRcqHznqg",
+            "photo_URL":"",
+            "details":"{1.Miso Soup: A Japanese soup made with dashi (a broth made from fish flakes and kombu seaweed), miso paste (made from fermented soybeans), and various ingredients such as tofu, scallions, and seaweed. It's a simple and comforting soup that's often served as a starter in Japanese restaurants.}{2.Lentil Soup: A hearty and nutritious soup made with lentils, vegetables such as carrots, celery, and onions, and herbs such as thyme and bay leaves. It's often served with a dollop of yogurt or a squeeze of lemon juice.}",
+            "experience":"1.5 yr",
+            "num_of_recipies":15,
+            "likes":"2.5k"
+           },
+        {
+            "id":4,
+            "chef_name":"Ratul",
+            "chef_pic":"https://unsplash.com/photos/tAvpDE7fXgY",
+            "photo_URL":"",
+            "details":"{1.Spaghetti Carbonara: A classic Italian pasta dish made with spaghetti, eggs, pancetta or bacon, Parmesan cheese, and black pepper. The creamy sauce is made by whisking eggs with grated Parmesan cheese and adding it to the cooked pasta and pancetta.} {2.Chicken Tikka Masala: A popular Indian dish made by marinating chicken in a mixture of yogurt and spices, grilling or baking it, and then simmering it in a creamy tomato-based sauce. It's often served with rice or naan bread.}{3.Shakshuka: A flavorful Middle Eastern breakfast dish made with eggs poached in a spiced tomato sauce with onions, bell peppers, and spices such as cumin, paprika, and chili powder. It's often served with crusty bread for dipping.}",
+            "experience":"3.5 yr",
+            "num_of_recipies":10,
+            "likes":"3k"
+           },
+        {
+            "id":5,
+            "chef_name":"Saim",
+            "chef_pic":"https://unsplash.com/photos/sibVwORYqs0",
+            "photo_URL":"",
+            "details":"{1.Beef Stir Fry: A quick and easy Chinese-inspired dish made by stir-frying thinly sliced beef with vegetables such as bell peppers, onions, and broccoli, and a flavorful sauce made with soy sauce, garlic, ginger, and cornstarch.} {2.Lentil Soup: A hearty and nutritious soup made with lentils, vegetables such as carrots, celery, and onions, and herbs such as thyme and bay leaves. It's often served with a dollop of yogurt or a squeeze of lemon juice.}",
+            "experience":"2.5 yr",
+            "num_of_recipies":22,
+            "likes":"1k"
+           },
+        {
+            "id":6,
+            "chef_name":"Azmol",
+            "chef_pic":"https://unsplash.com/photos/95UF6LXe-Lo",
+            "photo_URL":"",
+            "details":"{1.Spaghetti Carbonara: A classic Italian pasta dish made with spaghetti, eggs, pancetta or bacon, Parmesan cheese, and black pepper. The creamy sauce is made by whisking eggs with grated Parmesan cheese and adding it to the cooked pasta and pancetta.} {2.Chicken Tikka Masala: A popular Indian dish made by marinating chicken in a mixture of yogurt and spices, grilling or baking it, and then simmering it in a creamy tomato-based sauce. It's often served with rice or naan bread.} {3.Shakshuka: A flavorful Middle Eastern breakfast dish made with eggs poached in a spiced tomato sauce with onions, bell peppers, and spices such as cumin, paprika, and chili powder. It's often served with crusty bread for dipping.}",
+            "experience":"4 yr",
+            "num_of_recipies":17,
+            "likes":"2.5k"
+           }
+       ]
+    }
+]
